@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Soorya P">
     <title>E-Ration_Shop</title>
-    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href=".//css/style.css" />
     <link rel="icon" href="./image/icon/logo.png" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -70,7 +70,7 @@
     </section>
     <section class="section3">
         <div class="head">
-            <h2> hi world</h2>
+            <h2><span>Commodity Details</span></h2>
         </div>
     </section>
 </body>

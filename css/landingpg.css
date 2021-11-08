@@ -65,3 +65,22 @@
   padding: 15px;
   border-radius: 30px;
 }
+
+/*----Section3-----*/
+
+.section3 {
+  margin: 100px 40px 100px 100px;
+}
+
+.head h2 {
+  width: 95%;
+  text-align: center;
+  border-bottom: 3px solid #ffa31a;
+  line-height: 0.1em;
+  margin: 10px 0px 20px;
+}
+
+h2 span {
+  background: #fff;
+  padding: 0 50px;
+}
